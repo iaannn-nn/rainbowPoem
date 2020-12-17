@@ -6,4 +6,4 @@ green
 orange 
 red
 yellow
-indigo
+Pink
